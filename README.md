@@ -1,0 +1,2 @@
+# LocationAriJanuari
+GIS tugas
